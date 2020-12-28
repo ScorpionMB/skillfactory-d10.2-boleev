@@ -8,6 +8,8 @@ https://fierce-badlands-01919.herokuapp.com/ - начальная страниц
 https://fierce-badlands-01919.herokuapp.com/success - страница успешного запуска
 https://fierce-badlands-01919.herokuapp.com/fail - страница с ошибкой
 
+В файле config.py нужно ввести свой реальный адрес для Sentry.
+
 
 
 
