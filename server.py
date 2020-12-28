@@ -5,7 +5,7 @@ from sentry_sdk.integrations.bottle import BottleIntegration
 from config import key_project
 
 sentry_sdk.init(
-    "{}".format(key_project),
+    dsn=key_project,
     integrations=[BottleIntegration()]
 )
 
