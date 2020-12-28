@@ -1,1 +1,1 @@
-key_project = "Ввести dsn Sentry"
+key_project = "Ввести DSN Sentry"
